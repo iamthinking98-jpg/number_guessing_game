@@ -7,14 +7,18 @@ Based on valuable feedback from the Qiita community, this project has been refac
 ・Refactored the comp() function to use a more efficient logic with zip() and sum().
 
 ・Corrected a logic bug in the Hit/Blow calculation.
+
 ## Overview
 I made this game from "スッキリわかるpython入門".
 You can type each number to guess three numbers PC thought.
 
+## Code
+[hit_and_blow.ipynb](https://github.com/iamthinking98-jpg/number_guessing_game/blob/main/hit_and_blow.ipynb)(Note: This is a Jupyter Notebook file.)
+
 ## How to Run
-To run this game, execute the following command in your terminal:
-```python
-hit_and_blow.ipynb
-```
+1.Download the hit_and_blow.ipynb file.
+
+2.Run it using Jupyter Notebook.
+
 ## Execution Proof
 ![Execution Proof](execution_proof.png)
